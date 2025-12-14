@@ -31,7 +31,7 @@ Currently working as a freelancer on data analysis and business reporting projec
 ---
 
 ## 📄 CV
-📥 [Download My CV](link-here)
+📥 [Download My CV](https://github.com/mkamel1209/MarwaKamel_CV/blob/main/MarwaYehiaKamel_FinalCV.pdf)
 
 ---
 
