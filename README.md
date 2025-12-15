@@ -17,8 +17,22 @@ Currently working as a freelancer on data analysis and business reporting projec
 ---
 
 ## 📁 Portfolio Projects
-🔹 *Sales Dashboard – Power BI*  
-![Sales](../images/SalesStorePractice.png)
+Sample projects
+<table>
+<tr>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+</tr>
+  <tr>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+</tr>
+  <tr>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+</tr>
+</table>
+
 
 - Sales performance analysis  
 - KPI tracking & insights  
