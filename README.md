@@ -46,7 +46,7 @@ Sample Projects
 ---
 
 ## 📬 Contact
+
 - Email: marwa_kamel@hotmail.com
-- <a href="https://www.linkedin.com/in/marwa-kamel-mba-923b9832" target="_blank">
-  💼 LinkedIn
-</a>
+- 💼 LinkedIn: [Marwa Kamel](https://www.linkedin.com/in/marwa-kamel-mba-923b9832/)
+
