@@ -17,6 +17,10 @@ I help businesses uncover insights, optimize performance, and make smarter decis
 - SQL (Queries, Joins, Views)
 - Data Cleaning & Visualization
 - Business Analysis & KPI Tracking
+- Data Validation & Quality Assurance
+- Data Governance & Documentation
+- Data Modeling 
+
 
 ---
 
