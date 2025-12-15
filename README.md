@@ -21,15 +21,15 @@ Sample projects
 <table>
 <tr>
   <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
-  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/AmazingPractice.png" width="300"/></td>
 </tr>
   <tr>
-  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
-  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/CRMPractice.png" width="300"/></td>
+  <td>  <img src="../images/PizzaPractice.png" width="300"/></td>
 </tr>
   <tr>
-  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
-  <td>  <img src="../images/SalesStorePractice.png" width="300"/></td>
+  <td>  <img src="../images/ShoppingPractice.png" width="300"/></td>
+  <td>  <img src="../images/SuperStorePractice.png" width="300"/></td>
 </tr>
 </table>
 
